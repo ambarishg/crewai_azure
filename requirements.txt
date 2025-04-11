@@ -1,0 +1,10 @@
+openai
+qdrant-client
+sentence-transformers
+streamlit
+python-dotenv
+pandas
+PyPDF2
+crewai==0.70.1 
+crewai_tools==0.12.1 
+duckduckgo-search==6.3.1
